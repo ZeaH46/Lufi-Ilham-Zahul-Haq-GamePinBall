@@ -1,0 +1,11 @@
+
+Library/* 
+Logs/* 
+Temp/*
+Assets/*
+Packages/*
+ProjectSettings/*
+UserSettings/* 
+ 
+.vsconfig 
+*.sln 
